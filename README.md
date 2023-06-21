@@ -1,5 +1,5 @@
 # Part Functionality Analysis App
-![image](https://github.com/Cuijh50892/SMI2023GRSI/blob/main/0.Figure/Functionality%20Analysis.jpg)
+![image](https://github.com/Cuijh50892/SMI2023GRSI/blob/main/0.Figure/Interface.png)
 **This is the author's code release for:**
 > **Analyzing Part Functionality via Multi-modal Latent Space Embedding and Interweaving**  
 > Jiahao Cui, Shuai Li, Fei Hou, Aimin Hao, Hong Qin.  
